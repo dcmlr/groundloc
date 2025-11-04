@@ -116,7 +116,7 @@ Then launch RViz2:
 rviz2 -d src/groundloc/groundloc/rviz/groundloc.rviz 
 ```
 <p align="center">
-  <img src="groundloc/res/imgs/rviz.png" alt="RViz2 using the GroundLoc configuration file" width=20%/>
+  <img src="groundloc/res/imgs/rviz.png" alt="RViz2 using the GroundLoc configuration file" width=30%/>
 </p>
 RViz2 window using the supplied configuration, showing the segmented point cloud, the query and map BEV images, and the odometry produced by GroundLoc compared with the ground-truth odometry.
 
