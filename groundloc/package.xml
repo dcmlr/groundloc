@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+    <name>groundloc</name>
+    <version>1.0.0</version>
+    <description>GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization</description>
+
+    <maintainer email="n.steinke@fu-berlin.de">Autonomos-Labs, FU Berlin</maintainer>
+
+    <license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License</license>
+
+    <url type="website">https://www.autonomos-labs.de/</url>
+
+    <author email="n.steinke@fu-berlin.de">Autonomos-Labs, FU Berlin</author>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+    <depend>rclpy</depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>

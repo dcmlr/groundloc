@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<package format="3">
+    <name>groundgrid</name>
+    <version>1.0.0</version>
+    <description>GroundGrid: Ground Segmentation and Terrain Estimation</description>
+
+    <maintainer email="n.steinke@fu-berlin.de">Autonomos-Labs, FU Berlin</maintainer>
+
+    <license>BSD</license>
+
+    <url type="website">https://www.autonomos-labs.de/</url>
+
+    <author email="n.steinke@fu-berlin.de">Autonomos-Labs, FU Berlin</author>
+
+    <depend>std_msgs</depend>
+    <depend>rclpy</depend>
+	  <depend>rclcpp</depend>
+    
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <buildtool_depend>rosidl_default_generators</buildtool_depend>
+
+
+    <build_depend>geometry_msgs</build_depend>
+    <build_depend>sensor_msgs</build_depend>
+
+    <build_depend>velodyne_pointcloud</build_depend>
+
+    <!-- grid_map stuff -->
+    <depend>grid_map_core</depend>
+    <depend>grid_map</depend>
+    <depend>grid_map_ros</depend>
+    <depend>grid_map_cv</depend>
+    <depend>grid_map_filters</depend>
+    <depend>grid_map_loader</depend>
+    <depend>grid_map_msgs</depend>
+    <depend>grid_map_octomap</depend>
+    <depend>grid_map_rviz_plugin</depend>
+    <depend>grid_map_visualization</depend>
+    <depend>cv_bridge</depend>
+    <depend>tf_transformations</depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
