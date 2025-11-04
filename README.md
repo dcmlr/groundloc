@@ -1,12 +1,15 @@
 # GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization
-This repository contains the source code for the article "GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization" published in the IEEE Robotics and Automation Letters (DOI: [10.1109/LRA.2025.3625518](doi.org/10.1109/LRA.2025.3625518), [Arxiv](https://arxiv.org/abs/2510.24623)).
+This repository contains the source code for the article "GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization" published in the IEEE Robotics and Automation Letters (DOI: [10.1109/LRA.2025.3625518](https://doi.org/10.1109/LRA.2025.3625518), [Arxiv](https://arxiv.org/abs/2510.24623)).
 <p align="center">
   <img src="groundloc/res/imgs/town_notransparency.png" alt="GroundLoc localization results on the HeLiPR Town sequence" max-width=80%/>
 </p>
 GroundLoc (R2D2) localization results on the HeLiPR Town sequence using various sensors.
 
 ## Videos
-TODO
+[video_aeva_github.webm](https://github.com/user-attachments/assets/c66596a5-ed39-44c8-a698-64c9ff920f4b)
+[video_avia_github.webm](https://github.com/user-attachments/assets/38ab7603-ee22-4ddd-ba8d-141565717144)
+[video_ouster_github.webm](https://github.com/user-attachments/assets/c1021a2c-2f2b-4987-b32f-4c7b5410a17a)
+
 
 # Installation
 ### Docker (Recommended)
