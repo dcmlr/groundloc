@@ -6,10 +6,10 @@ This repository contains the source code for the article "GroundLoc: Efficient L
 GroundLoc (R2D2) localization results on the HeLiPR Town sequence using various sensors.
 
 ## Videos
-[video_aeva_github.webm](https://github.com/user-attachments/assets/c66596a5-ed39-44c8-a698-64c9ff920f4b)
-[video_avia_github.webm](https://github.com/user-attachments/assets/38ab7603-ee22-4ddd-ba8d-141565717144)
-[video_ouster_github.webm](https://github.com/user-attachments/assets/c1021a2c-2f2b-4987-b32f-4c7b5410a17a)
-
+GroundLoc on HeLiPR Bridge sequence using the Aeva Aeries II, Livox Avia, and Ouster OS2 128 sensors.
+<video width="320" height="240" src="https://github.com/user-attachments/assets/c66596a5-ed39-44c8-a698-64c9ff920f4b"  controls></video>
+<video width="320" height="240"  src="https://github.com/user-attachments/assets/38ab7603-ee22-4ddd-ba8d-141565717144" controls></video>
+<video width="320" height="240"  src="https://github.com/user-attachments/assets/c1021a2c-2f2b-4987-b32f-4c7b5410a17a" controls></video>
 
 # Installation
 ### Docker (Recommended)
