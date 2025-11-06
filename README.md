@@ -215,10 +215,10 @@ If you use our work in your research, please consider citing our article:
   journal={IEEE Robotics and Automation Letters}, 
   title={GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-8},
-  keywords={Location awareness;Sensors;Laser radar;Sensor systems;Point cloud compression;Mobile robots;Global navigation satellite system;Odometry;Simultaneous localization and mapping;Pipelines;Range Sensing;Mapping;Localization},
+  volume={10},
+  number={12},
+  pages={12939-12946},
+  keywords={Location awareness;Sensors;Laser radar;Sensor systems;Point cloud compression;Mobile robots;Global navigation satellite system;Odometry;Simultaneous localization and mapping;Pipelines;Range sensing;mapping;localization},
   doi={10.1109/LRA.2025.3625518}}
 ```
 
